@@ -1,0 +1,9 @@
+# macOS Finder clutter
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Local cache of the last generated infographic
+raid-counters/last-infographic-url.txt
